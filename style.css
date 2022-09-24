@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+.mainMenu{
+  max-width: 980px; 
+  max-height: 64px;
+  height: 64px;
+  width: 980px;
+  margin: auto;
+  background-color: #545454;
+  display: flex;  
+  align-items: center;
+  top: 39px;
+}
+
+.mainMenu img{
+  padding-left: 10px;
+}
+
+.mainMenu h1{
+  color: #FFDE59;
+  font-size: 150%;
+  padding-left: 10px;
+  position: relative;
+  
+}
+
+header{
+}
+
+#rightItens{
+  position: relative; top:0;left: 75%;
+}
+
+body{
+  background-color: black;
+
+
+}
